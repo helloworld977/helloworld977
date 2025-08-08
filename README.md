@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mison Khatiwada</h1>
+<h1 align="center">Hi 👋, I'm Mison Khatiwada (Asxy)</h1>
 <h3 align="center">A passionate Flutter & App Developer | Java Learner | Code Lover</h3>
 
 <p align="center">
@@ -9,14 +9,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mison-dev&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 
-- 🔭 Currently building cross-platform apps using Flutter  
-- 🌱 Learning Java for backend development  
-- 💻 Also write code in Go, Python, C, Node.js  
+- 🔭 Currently building **cross-platform apps** using Flutter  
+- 🌱 Learning **Java** for backend development  
+- 💻 Also code in **Go, Python, C, Node.js**  
 - 👨‍💻 Projects coming soon at: [buildinprogress.com](http://www.buildinprogress.com)  
-- 📫 Reach me at: misonkhatiwada@outlook.com  
-- ⚡ Dream: To be a full-time App Developer  
+- 💬 Ask me about **Flutter & App Development**  
+- 📫 Reach me at: **misonkhatiwada@outlook.com**  
+- ⚡ Dream: **To be a full-time App Developer**  
 
 ---
 
@@ -26,12 +27,14 @@
   <a href="mailto:misonkhatiwada@outlook.com">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
 </div>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools I Use</h3>
+<h3 align="left">🛠️ Languages & Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" />
