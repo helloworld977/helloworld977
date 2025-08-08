@@ -13,28 +13,24 @@
 
 - 🔭 Currently building **cross-platform apps** using Flutter  
 - 🌱 Learning **Java** for backend development  
-- 💻 Also code in **Go, Python, C, Node.js**  
+- 💻 Coding also in **Go, Python, C, Node.js**  
 - 👨‍💻 Projects coming soon at: [buildinprogress.com](http://www.buildinprogress.com)  
 - 💬 Ask me about **Flutter & App Development**  
 - 📫 Reach me at: **misonkhatiwada@outlook.com**  
 - ⚡ Dream: **To be a full-time App Developer**  
 
----
-
-<h3 align="left">🔗 Connect with me</h3>
+<h3 align="left">Connect with me:</h3>
 
 <div align="left">
-  <a href="mailto:misonkhatiwada@outlook.com">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <a href="mailto:misonkhatiwada@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&color=0078D4&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://discord.com/users/your-discord-id" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
 
----
-
-<h3 align="left">🛠️ Languages & Tools</h3>
+<h3 align="left">Languages & Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" />
@@ -49,9 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
 </div>
 
----
-
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">GitHub Stats:</h3>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mison-dev&layout=compact&theme=radical" />
